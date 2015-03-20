@@ -22,7 +22,7 @@ int main(int argc, char ** argv)
 			printf("## Welcome to the HTCPCP Server\n");
 			printf("## This project was created for the C programming lesson of ESGI school.\n");
 			printf("## The project is released under the GNU GPL v2.0 License.\n");
-			printf("## Author: Dylan Dubief & Arnaud Zobec.\n");
+			printf("## Author: Dylan Dubief.\n");
 			printf("## Last update: 22/02/15\n");
 			printf("############################################################################\n");
 			printf("\n\n\n");
